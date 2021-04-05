@@ -6,7 +6,7 @@ Can you transfer permissions from permissionsex;In order to do so, just keep the
 Can you transfer permissions from another plugin;In order to do so, just keep the both plugins on the same server installed and a message will pop up, asking if you want to import your old permissions
 how can I use hex color codes;{#yourcolor}
 how can I use hex colors;{#yourcolor}
-Can I use gradients;No, but it is currently planned
+Can I use gradients;Gradients are currently not usable, but they are planned
 How can I add negative permissions;Add a - in front of the permission
 How can I add bungee perms;Right click the add permission button on the bottom left
 How can I add bungeecord permissions;Right click the add permission button on the bottom left
