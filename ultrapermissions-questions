@@ -36,3 +36,6 @@ So like can i use placeholders;You can find the placeholders at https://ultraper
 where can i find placeholders;You can find the placeholders at https://ultrapermissions.com/wiki
 where do i get ultra permissions;You can buy it at https://www.spigotmc.org/resources/ultra-permissions.42678/
 How can i transfer data from luck perms to ultra permissions;In order to do so, just just keep the both plugins on the same server installed and a message will pop up, asking if you want to import your old permissions
+How can I connect to mysql?;Execute /uperms, go to the settings and go to the mysql tab
+How can I set prefix;You can set the prefix for a group or user in /uperms > Users or Groups > Group Name or User Name > Left click on prefix
+How can I set Suffix;You can set the Suffix for a group or user in /uperms > Users or Groups > Group Name or User Name > Right click on Suffix
