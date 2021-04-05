@@ -1,0 +1,16 @@
+How can I set uperms up with bungee:Just follow the guide at https://ultrapermissions.com/wiki/installation
+How can I set uperms up with bungeecord:Just follow the guide at https://ultrapermissions.com/wiki/installation
+Can you transfer permissions from luckperms:Yes, just keep the both plugins on the same server installed and a message will pop up, asking if you want to import your old permissions
+Can you transfer permissions from pex:Yes, just keep the both plugins on the same server installed and a message will pop up, asking if you want to import your old permissions
+Can you transfer permissions from permissionsex:Yes, just keep the both plugins on the same server installed and a message will pop up, asking if you want to import your old permissions
+Can you transfer permissions from another plugin:Yes, just keep the both plugins on the same server installed and a message will pop up, asking if you want to import your old permissions
+how can I use hex color codes:{#yourcolor}
+how can I use hex colors:{#yourcolor}
+Can I use gradients:Yes
+How can I add negative permissions: Add a - in front of the permission
+How can I add bungee perms:Right click the add permission button on the bottom left
+How can I add bungeecord permissions:Right click the add permission button on the bottom left
+How can I add a space between the prefix and the display name:Type a space when setting the specific group / player prefixes
+How do I set up msql:Execute /uperms, go to the settings and go to the mysql tab.
+how to use mysql:Execute /uperms, go to the settings and go to the mysql tab.
+how do I use mysql:Execute /uperms, go to the settings and go to the mysql tab.
