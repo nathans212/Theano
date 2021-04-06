@@ -39,3 +39,4 @@ How can i transfer data from luck perms to ultra permissions;In order to do so, 
 How can I connect to mysql?;Execute /uperms, go to the settings and go to the mysql tab
 How can I set prefix;You can set the prefix for a group or user in /uperms > Users or Groups > Group Name or User Name > Left click on prefix
 How can I set Suffix;You can set the Suffix for a group or user in /uperms > Users or Groups > Group Name or User Name > Right click on Suffix
+How i can sort Tablist?; Ultra Permissions isn't a tab list however a good tablist plugin is https://www.spigotmc.org/resources/57806/
